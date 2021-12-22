@@ -1,0 +1,19 @@
+{
+  "name": "taskcli",
+  "version": "1.0.0",
+  "description": "A cli tool for automatic workflows",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zakpak0/Task.git"
+  },
+  "author": "Zakhary Oliver",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zakpak0/Task/issues"
+  },
+  "homepage": "https://github.com/Zakpak0/Task#readme"
+}
