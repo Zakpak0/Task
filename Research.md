@@ -7,6 +7,7 @@ https://nodejs.org/api/child_process.html
 Spawn child processes
 
 ### Running commands from anywhere on the system
+set Path=C:\Program Files\Google\Chrome\Application;%Path%
 
 ### Running commands that fire events to start applications through the terminal
 
